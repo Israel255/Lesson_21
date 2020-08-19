@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>Civic</Model>
+  <Brand>Honda</Brand>
+  <Year>2010</Year>
+  <Color>Black</Color>
+</Car>
